@@ -123,18 +123,11 @@ OR
 - Download already trained model from this given link https://drive.google.com/file/d/1ktTOydOQHvEozrK2czrSb24eby_6GNHF/view?usp=sharing and start from step 4
 
 # Project Documents
-- HLD: https://github.com/mniranjan1/Computer-Vision-Solution-For-Hearing-Impaired/blob/master/DOCS/HLD.pdf 
-- LLD: https://github.com/mniranjan1/Computer-Vision-Solution-For-Hearing-Impaired/blob/master/DOCS/LLD.pdf
-- Architecture: https://github.com/mniranjan1/Computer-Vision-Solution-For-Hearing-Impaired/blob/master/DOCS/Architecture.pdf
-- Wireframe: https://github.com/mniranjan1/Computer-Vision-Solution-For-Hearing-Impaired/blob/master/DOCS/Wireframe.pdf
-- Detailed Project Report: https://github.com/mniranjan1/Computer-Vision-Solution-For-Hearing-Impaired/blob/master/DOCS/DPR.pdf
 
 
 
 # Author
-Niranjan Shrestha: https://www.linkedin.com/in/niranjan-shrestha/ 
 
-Prajin Bajracharya: https://www.linkedin.com/in/prajinbajracharya/
 
 # Got a question?
 If you have any questions that are bothering you please contact me on my linkedin profile. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
